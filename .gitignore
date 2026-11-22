@@ -26,3 +26,5 @@ Thumbs.db
 # Secrets
 .env
 *.local
+# Release output
+release/

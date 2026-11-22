@@ -1,0 +1,10 @@
+{
+  "name": "ImageResizer",
+  "entry": "image_resizer.py",
+  "spec": "",
+  "icon": "",
+  "extraArgs": [
+    "--collect-all",
+    "tkinterdnd2"
+  ]
+}

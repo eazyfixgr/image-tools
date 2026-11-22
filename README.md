@@ -46,3 +46,13 @@ Released under the [MIT License](LICENSE).
 - Μαζική αλλαγή μεγέθους (πλάτος/ύψος ή ποσοστό)
 - Συμπίεση και μετατροπή μορφής (JPG, PNG, WEBP…)
 - Μαζική μετονομασία
+
+## One-click EXE build
+
+Double-click `build_exe.bat`. It installs the requirements and PyInstaller if needed and writes `release/ImageResizer-<version>-windows.exe`. Change the version in `build_version.json` before a release.
+
+---
+
+## Γρήγορο build EXE
+
+Διπλό κλικ στο `build_exe.bat` — εγκαθιστά ό,τι χρειάζεται και δημιουργεί το `release/ImageResizer-<version>-windows.exe`.
